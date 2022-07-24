@@ -1,0 +1,214 @@
+/*common start*/
+body{
+	font-family: 'Poppins', sans-serif;
+	font-size: 16px;
+	font-weight: 400;
+	color: #ffffff ;
+}
+a{
+	color: #ffffff;
+	text-decoration: none;
+}
+a:hover{
+	color: #e35f1c;
+}
+header{
+	background-color: #e35f1c;
+	padding: 15px 0;
+}
+.brown{
+    background-color: #daac00;
+}
+.yellowbg{
+    background-color: #fcc302;
+}
+.text-align-right{
+    text-align: right;
+}
+
+.menu ul li a{
+	font-size: 22px !important;
+	font-weight: 400 !important;
+	color: white !important;
+	padding: 0 30px !important;
+}
+.menu ul li a:hover{
+	color: #00bec9 !important;
+}
+.search{
+    background-color: #fcc302;
+    padding: 8px;
+    border: none;
+}
+.menu-btn{
+    background-color: #00bec9;
+    color: white !important;
+}
+.menu-btn:hover{
+    background-color: #fcc302;
+}
+
+.slider{
+    padding: 50px;
+	background-color: #fcc302;
+	padding-bottom: 100px ;
+}
+.s_text{
+	margin-top: 50px;
+
+}
+.s_text h1{
+    margin: 0 0 30px 0;
+    font-family: 'Poppins', sans-serif;
+	font-size: 50px;
+	font-weight: 500;
+	color: white;
+}
+}
+.s_text p{
+    margin: 0 0 30px 0;
+    font-size: 30px;
+    font-weight: 400;
+	color: white;
+}
+.slider-btn{
+    margin: 15px 15px 0 0;
+    padding: 14px 23px;
+}
+.slider-btn2{
+    border: solid white;
+    color: white;
+}
+
+/*feature start*/
+.c_padding{
+    margin-top: 130px;
+    margin-bottom: 180px;
+}
+.c_text h1{
+    font-weight: 700;
+    font-size: 40px;
+    margin-bottom: 50px;
+    color: black;
+}
+.c_text p{
+    font-size: 22px;
+    margin-bottom: 56px;
+    color: black;
+
+}
+.c_img{
+    margin: auto;
+}
+.c_btn{
+    margin: 15px 15px 0 0;
+    padding: 14px 27px;
+    background-color: #fcc302;
+    color: white;
+}
+/*feature end*/
+/*slide-1 start*/
+.slide-1{
+	padding-top: 100px;
+    padding-bottom: 100px;
+	background-color: #fcc302;
+}
+}
+.sl1text p{
+    font-size: 25px;
+    text-align: center;
+    color: white;
+}
+.card-body h1{
+    font-size: 42px;
+}
+.card-body p{
+    font-size: 22px;
+}
+/*slide-1 end*/
+/*slide-2 start*/
+.sl2{
+	margin: 50px 0 90px;
+    background-color: ;
+}
+.sl2text{
+	font-weight: 100px;
+	text-align: center;
+	color: #black;
+}
+.card{
+	margin: 0 15px 0;
+	border: 0px !important;
+}
+.card-footer{
+	margin: 50px 0 0;
+}
+/*Slide-2 end*/
+/*slide-3 start*/
+.s3_btn{
+    float: right;
+    overflow: hidden;
+}
+/*slide-3 end*/
+/*slide-5 start*/
+.slide-5{
+    padding-bottom: 100px;
+    background-color: white;
+}
+.s5text-color{
+    color: black !important;
+}
+/*slide-5 end*/
+/*slide-6 start*/
+.slide6{
+    padding: 100px;
+    background-image: url("bgd.png");
+}
+.sl6card{
+    margin: 10px 55px;
+}
+.sl6img{
+    margin-right: auto;
+    margin-left: auto;
+}
+.sl6p{
+    margin-top: 65px;
+    font-size: 35px;
+    text-align: center;
+
+}
+.sl6h{
+    margin-top: 30px;
+    font-weight: 700;
+    font-size: 39px;
+    text-align: center;
+}
+/*slide-6 end*/
+/*updates start*/
+.updates{
+    padding: 100px;
+}
+.ucard{
+    border: solid 1px black;
+}
+.utext{
+    color: black;
+}
+.utexth{
+    font-size: 30px;
+}
+.utextp{
+    font-size: 20px;
+}
+/*updates end*/
+/*contact start*/
+.contact{
+    background-color: #343434;
+}
+.contact-list{
+    list-style: none ;
+}
+.ulist{
+    display: inline-block;
+}
+/*contact end
